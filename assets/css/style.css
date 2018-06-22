@@ -1,0 +1,20 @@
+
+.jumbotron {
+  background-image: url("../images/gold\ sonic\ background.jpg");
+  background-size: cover;
+}
+.jumbotron h1 {
+
+  color: silver;
+  text-shadow: 3px 3px #fff;
+
+}
+body {
+	background-image: ("../images/Sonic-the-Hedgehog-Desktop-Wallpapers-728x409.jpg");
+	background-color: lightblue;
+}
+
+.instructions {
+  text-align: center; 
+}
+
